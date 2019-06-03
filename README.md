@@ -1,0 +1,1 @@
+This repository is a collection of items I created towards the completion of my senior thesis in the Applied Mathematics Dept. at Loyola Marymount Univeristy under the supervision of Dr. Thomas Laurent.
