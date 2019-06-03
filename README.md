@@ -1,1 +1,2 @@
 This repository is a collection of items I created towards the completion of my senior thesis in the Applied Mathematics Dept. at Loyola Marymount Univeristy under the supervision of Dr. Thomas Laurent.
+The thesis revolved around creating a tutorial on Neural Machine Translation. The tutorial was largely inspired and drew from the PyTorch tutorial (https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html "Translation with a Sequence to Sequence Network and Attention") 
